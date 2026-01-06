@@ -14,3 +14,4 @@ Codename: trixie
 Architectures: amd64 i386 arm64
 Components: main
 Description: Chatenium On Linux repo hosted for Debian 13 (trixie)
+SignWith: 161B0A9907146606
