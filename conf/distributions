@@ -1,8 +1,16 @@
 Origin: Chatenium
-Label: Chatenium On Linux repository hosted for Debian and Ubuntu
+Label: Chatenium Repo
 Suite: stable
 Codename: bookworm
 Architectures: amd64 i386 arm64
 Components: main
-Description: My APT repository
+Description: Chatenium On Linux repo hosted for Debian 12 (Bookworm)
 SignWith: 161B0A9907146606
+
+Origin: Chatenium
+Label: Chatenium
+Suite: stable
+Codename: trixie
+Architectures: amd64 i386 arm64
+Components: main
+Description: Chatenium On Linux repo hosted for Debian 13 (trixie)

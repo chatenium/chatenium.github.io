@@ -1,6 +1,6 @@
 Archive: stable
 Component: main
 Origin: Chatenium
-Label: Chatenium On Linux repository hosted for Debian and Ubuntu
+Label: Chatenium Repo
 Architecture: i386
-Description: My APT repository
+Description: Chatenium On Linux repo hosted for Debian 12 (Bookworm)

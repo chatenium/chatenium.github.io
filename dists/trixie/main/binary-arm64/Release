@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Chatenium
+Label: Chatenium
+Architecture: arm64
+Description: Chatenium On Linux repo hosted for Debian 13 (trixie)
