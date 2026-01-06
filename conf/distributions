@@ -1,0 +1,8 @@
+Origin: Chatenium
+Label: Chatenium On Linux repository hosted for Debian and Ubuntu
+Suite: stable
+Codename: bookworm
+Architectures: amd64 i386 arm64
+Components: main
+Description: My APT repository
+SignWith: 161B0A9907146606

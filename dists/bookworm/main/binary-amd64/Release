@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Chatenium
+Label: Chatenium On Linux repository hosted for Debian and Ubuntu
+Architecture: amd64
+Description: My APT repository
