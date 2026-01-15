@@ -2,37 +2,37 @@ Origin: Chatenium
 Label: Chatenium
 Suite: stable
 Codename: trixie
-Date: Tue, 06 Jan 2026 14:05:34 UTC
+Date: Thu, 15 Jan 2026 16:15:54 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: Chatenium On Linux repo hosted for Debian 13 (trixie)
 MD5Sum:
- f2bb2842352d421a5f46e63cb8f8ee4c 1244 main/binary-amd64/Packages
- 9286f25fae8fd27ee7420da9d3cfe45a 633 main/binary-amd64/Packages.gz
+ 7a30f1bf93ddc5b8b2c6bae8888ac905 1241 main/binary-amd64/Packages
+ c957b1afb9339a0bf6bbcbba61fd896c 629 main/binary-amd64/Packages.gz
  7b42c87157d4f547ce4221461228e8c6 154 main/binary-amd64/Release
- f2bb2842352d421a5f46e63cb8f8ee4c 1244 main/binary-i386/Packages
- 9286f25fae8fd27ee7420da9d3cfe45a 633 main/binary-i386/Packages.gz
+ 7a30f1bf93ddc5b8b2c6bae8888ac905 1241 main/binary-i386/Packages
+ c957b1afb9339a0bf6bbcbba61fd896c 629 main/binary-i386/Packages.gz
  5e3da9ae766374cb63ca24ad32f71f34 153 main/binary-i386/Release
- f2bb2842352d421a5f46e63cb8f8ee4c 1244 main/binary-arm64/Packages
- 9286f25fae8fd27ee7420da9d3cfe45a 633 main/binary-arm64/Packages.gz
+ 7a30f1bf93ddc5b8b2c6bae8888ac905 1241 main/binary-arm64/Packages
+ c957b1afb9339a0bf6bbcbba61fd896c 629 main/binary-arm64/Packages.gz
  8a421bda34724a62e6874d474f683637 154 main/binary-arm64/Release
 SHA1:
- 1b3c8b778e025affc653726c26d1942ad54c8b9d 1244 main/binary-amd64/Packages
- ac29963e280b67f669ecdd8043673b3ca4ee1fdb 633 main/binary-amd64/Packages.gz
+ bc5c745895fb3cd7aae74cae7af5a405be68683f 1241 main/binary-amd64/Packages
+ a907b1059c7bb540f727b5e54cd7baf63f9da205 629 main/binary-amd64/Packages.gz
  46a502a486052edd7b13f4ce958c62c87787406a 154 main/binary-amd64/Release
- 1b3c8b778e025affc653726c26d1942ad54c8b9d 1244 main/binary-i386/Packages
- ac29963e280b67f669ecdd8043673b3ca4ee1fdb 633 main/binary-i386/Packages.gz
+ bc5c745895fb3cd7aae74cae7af5a405be68683f 1241 main/binary-i386/Packages
+ a907b1059c7bb540f727b5e54cd7baf63f9da205 629 main/binary-i386/Packages.gz
  bf2c67096587253fb424dd476ebe0acc0e8536f3 153 main/binary-i386/Release
- 1b3c8b778e025affc653726c26d1942ad54c8b9d 1244 main/binary-arm64/Packages
- ac29963e280b67f669ecdd8043673b3ca4ee1fdb 633 main/binary-arm64/Packages.gz
+ bc5c745895fb3cd7aae74cae7af5a405be68683f 1241 main/binary-arm64/Packages
+ a907b1059c7bb540f727b5e54cd7baf63f9da205 629 main/binary-arm64/Packages.gz
  8175a82e8f7dee1a04177b0ad3461b77aea9e613 154 main/binary-arm64/Release
 SHA256:
- c92688312ab9e90b376525e6cc839f534f4fedbcbf9d8c590dad45ef05c3a841 1244 main/binary-amd64/Packages
- 88c9f175ca81852fbdf98bb952674647282b7291ab612d5fbe07bb542a911f8d 633 main/binary-amd64/Packages.gz
+ dfaf2cf01b6ce7babb94d61b981f6763171a71040ba3338cc75d0bf32ac127aa 1241 main/binary-amd64/Packages
+ 44c21998eb719e2740e12f8d66571e391162145d24f5988fd2386e0ff1cc2281 629 main/binary-amd64/Packages.gz
  8430bc8b80fccd9c9067ceeeef7cf3bbdba77e5c703082ced853675bb6bbe2ea 154 main/binary-amd64/Release
- c92688312ab9e90b376525e6cc839f534f4fedbcbf9d8c590dad45ef05c3a841 1244 main/binary-i386/Packages
- 88c9f175ca81852fbdf98bb952674647282b7291ab612d5fbe07bb542a911f8d 633 main/binary-i386/Packages.gz
+ dfaf2cf01b6ce7babb94d61b981f6763171a71040ba3338cc75d0bf32ac127aa 1241 main/binary-i386/Packages
+ 44c21998eb719e2740e12f8d66571e391162145d24f5988fd2386e0ff1cc2281 629 main/binary-i386/Packages.gz
  7239ce4fe34163afcf38012728365212f578f23bbe8725aab7aa4c1db62d1db0 153 main/binary-i386/Release
- c92688312ab9e90b376525e6cc839f534f4fedbcbf9d8c590dad45ef05c3a841 1244 main/binary-arm64/Packages
- 88c9f175ca81852fbdf98bb952674647282b7291ab612d5fbe07bb542a911f8d 633 main/binary-arm64/Packages.gz
+ dfaf2cf01b6ce7babb94d61b981f6763171a71040ba3338cc75d0bf32ac127aa 1241 main/binary-arm64/Packages
+ 44c21998eb719e2740e12f8d66571e391162145d24f5988fd2386e0ff1cc2281 629 main/binary-arm64/Packages.gz
  7e1538d805d4eca584d19da45f2b392d538db3e189dd73e39fa11472a2dda87b 154 main/binary-arm64/Release
