@@ -2,37 +2,37 @@ Origin: Chatenium
 Label: Chatenium Repo
 Suite: stable
 Codename: bookworm
-Date: Thu, 15 Jan 2026 16:15:54 UTC
+Date: Fri, 23 Jan 2026 11:09:15 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: Chatenium On Linux repo hosted for Debian 12 (Bookworm)
 MD5Sum:
- 7a30f1bf93ddc5b8b2c6bae8888ac905 1241 main/binary-amd64/Packages
- c957b1afb9339a0bf6bbcbba61fd896c 629 main/binary-amd64/Packages.gz
+ 3c6f33f71ca5239fb8d77dd0ec854da6 1237 main/binary-amd64/Packages
+ d682125780c78b082b5fc6b509bef110 630 main/binary-amd64/Packages.gz
  ff5de8a3c4c987d900a97aed12a340d5 161 main/binary-amd64/Release
- 7a30f1bf93ddc5b8b2c6bae8888ac905 1241 main/binary-i386/Packages
- c957b1afb9339a0bf6bbcbba61fd896c 629 main/binary-i386/Packages.gz
+ 3c6f33f71ca5239fb8d77dd0ec854da6 1237 main/binary-i386/Packages
+ d682125780c78b082b5fc6b509bef110 630 main/binary-i386/Packages.gz
  6edb08f2330eefdc8792e51ca18134c9 160 main/binary-i386/Release
- 7a30f1bf93ddc5b8b2c6bae8888ac905 1241 main/binary-arm64/Packages
- c957b1afb9339a0bf6bbcbba61fd896c 629 main/binary-arm64/Packages.gz
+ 3c6f33f71ca5239fb8d77dd0ec854da6 1237 main/binary-arm64/Packages
+ d682125780c78b082b5fc6b509bef110 630 main/binary-arm64/Packages.gz
  727caf614895fffe23e5723b2e380c4c 161 main/binary-arm64/Release
 SHA1:
- bc5c745895fb3cd7aae74cae7af5a405be68683f 1241 main/binary-amd64/Packages
- a907b1059c7bb540f727b5e54cd7baf63f9da205 629 main/binary-amd64/Packages.gz
+ 23a91738cfba06c76fc53489555030b73c26f076 1237 main/binary-amd64/Packages
+ f36055121f7c6a8709c1c75bc7901c452a926076 630 main/binary-amd64/Packages.gz
  baca13097756858d6a69ffbcfa6465e71f6303db 161 main/binary-amd64/Release
- bc5c745895fb3cd7aae74cae7af5a405be68683f 1241 main/binary-i386/Packages
- a907b1059c7bb540f727b5e54cd7baf63f9da205 629 main/binary-i386/Packages.gz
+ 23a91738cfba06c76fc53489555030b73c26f076 1237 main/binary-i386/Packages
+ f36055121f7c6a8709c1c75bc7901c452a926076 630 main/binary-i386/Packages.gz
  b529ae84142bf8aceb4ddff6af86e050bece1bb6 160 main/binary-i386/Release
- bc5c745895fb3cd7aae74cae7af5a405be68683f 1241 main/binary-arm64/Packages
- a907b1059c7bb540f727b5e54cd7baf63f9da205 629 main/binary-arm64/Packages.gz
+ 23a91738cfba06c76fc53489555030b73c26f076 1237 main/binary-arm64/Packages
+ f36055121f7c6a8709c1c75bc7901c452a926076 630 main/binary-arm64/Packages.gz
  99eaa8cc364251d9f0b37e38cd1b331e6c015b30 161 main/binary-arm64/Release
 SHA256:
- dfaf2cf01b6ce7babb94d61b981f6763171a71040ba3338cc75d0bf32ac127aa 1241 main/binary-amd64/Packages
- 44c21998eb719e2740e12f8d66571e391162145d24f5988fd2386e0ff1cc2281 629 main/binary-amd64/Packages.gz
+ 4243c105ea35c317ffaaae726edb8e60700ca6dfa010437f1bc1e8e03948872c 1237 main/binary-amd64/Packages
+ 9f9b47594b8605f312b2825ac94d4661ff11c0208014c994d2ee8d1b2b4cc3db 630 main/binary-amd64/Packages.gz
  69d0ae62875081560758c2a2808e9c2083b5decc07a53e54dbf0e091cedc4ac3 161 main/binary-amd64/Release
- dfaf2cf01b6ce7babb94d61b981f6763171a71040ba3338cc75d0bf32ac127aa 1241 main/binary-i386/Packages
- 44c21998eb719e2740e12f8d66571e391162145d24f5988fd2386e0ff1cc2281 629 main/binary-i386/Packages.gz
+ 4243c105ea35c317ffaaae726edb8e60700ca6dfa010437f1bc1e8e03948872c 1237 main/binary-i386/Packages
+ 9f9b47594b8605f312b2825ac94d4661ff11c0208014c994d2ee8d1b2b4cc3db 630 main/binary-i386/Packages.gz
  dee33c8acdb8f4de3d01ffb0aaa1201d1a2f6a6c455cc607b3b309d40e25bd84 160 main/binary-i386/Release
- dfaf2cf01b6ce7babb94d61b981f6763171a71040ba3338cc75d0bf32ac127aa 1241 main/binary-arm64/Packages
- 44c21998eb719e2740e12f8d66571e391162145d24f5988fd2386e0ff1cc2281 629 main/binary-arm64/Packages.gz
+ 4243c105ea35c317ffaaae726edb8e60700ca6dfa010437f1bc1e8e03948872c 1237 main/binary-arm64/Packages
+ 9f9b47594b8605f312b2825ac94d4661ff11c0208014c994d2ee8d1b2b4cc3db 630 main/binary-arm64/Packages.gz
  43875d944685c4b7a5bf57616dd01b3e2186f6df0e41fe4f46e07f8a7d600e2b 161 main/binary-arm64/Release
