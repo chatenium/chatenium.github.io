@@ -1,17 +1,17 @@
 Package: chatenium-ol-adwaita
-Version: 0.4
+Version: 0.5
 Architecture: all
 Maintainer: Chatenium <personal@alms.hu>
-Installed-Size: 100
-Depends: python3-chatenium-uniend, python3:any, dconf-gsettings-backend | gsettings-backend
+Installed-Size: 118
+Depends: python3-chatenium-uniend, python3-requests, python3-keyring, python3-aiohttp, python3-websocket, python3:any, dconf-gsettings-backend | gsettings-backend
 Homepage: https://chtn.hu
 Priority: optional
 Section: gnome
-Filename: pool/main/c/chatenium-ol-adwaita/chatenium-ol-adwaita_0.4_all.deb
-Size: 20160
-SHA256: cab1446589bd640281359b059d2f32af39f333757ef23643629cac43f3fc63c2
-SHA1: 39d11ebace4933804e4956fb24c2052afd6ec7a3
-MD5sum: 25146e0c090d2e46ba2eab4e3c7fc5a6
+Filename: pool/main/c/chatenium-ol-adwaita/chatenium-ol-adwaita_0.5_all.deb
+Size: 23312
+SHA256: f1d30e6daa0007c5b60a95512765d37cad5370342ec51337e860a5530f17e18d
+SHA1: d4c3bcdb8f24971bdf5a16101844ef7940ee07a7
+MD5sum: e28b1a6c00e54b08a7bd2293b08264f2
 Description: Chatenium client made for GNOME
 
 Package: python3-chatenium-uniend
