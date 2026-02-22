@@ -15,19 +15,19 @@ MD5sum: e28b1a6c00e54b08a7bd2293b08264f2
 Description: Chatenium client made for GNOME
 
 Package: python3-chatenium-uniend
-Version: 0.5
+Version: 0.6
 Architecture: all
 Maintainer: Chatenium <personal@alms.hu>
-Installed-Size: 60
+Installed-Size: 61
 Depends: pybuild-plugin-pyproject, python3-aiohttp, python3-keyring, python3-requests, python3-websocket, python3:any
 Homepage: https://chtn.hu
 Priority: optional
 Section: python
-Filename: pool/main/p/python3-chatenium-uniend/python3-chatenium-uniend_0.5_all.deb
-Size: 9572
-SHA256: ab4ec56fd78ef99e8ec4ed6040514e76cf919f3e3c3842680380b088417cfe9f
-SHA1: a0b2da293023a7c99be6f4b0e46dab357593466a
-MD5sum: 0dd540c9e9fec018d295f977b54ecd56
+Filename: pool/main/p/python3-chatenium-uniend/python3-chatenium-uniend_0.6_all.deb
+Size: 9804
+SHA256: 329426508d6c6e32ff4a3331a9bfc2acee83c71f0f03a09f2d0f572f0045656a
+SHA1: b824a37e96180473a7b461ceb798d85c10c1dcc6
+MD5sum: 4b1124836508e36f678a3dfd5a91d302
 Description: Chatenium UniEnd backend library
  A Python library to communicate with the Chatenium API.
 
